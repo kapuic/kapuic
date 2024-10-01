@@ -1,0 +1,13 @@
+{
+  "name": "kapuic",
+  "private": true,
+  "type": "module",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/bun": "latest",
+    "prettier": "^3.3.3"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
