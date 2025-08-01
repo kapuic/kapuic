@@ -1,8 +1,8 @@
-# 👋 Hello, I'm August Cheung
+# 👋 Hello, I'm Ka Pui (August) Cheung
 
 <img src="assets/avatar.jpeg" align="right" height="150" alt="Avatar" />
 
-I'm August ([they/them](https://pronouns.org/they-them)), a passionate student developer with a deep interest in building innovative, empowering, inclusive, and accessible applications and software architectures for people and communities. As a Computer Engineering major at <picture>
+I'm Ka Pui (August) ([they/them](https://pronouns.org/they-them)), a passionate student developer with a deep interest in building innovative, empowering, inclusive, and accessible applications and software architectures for people and communities. As a Computer Science major at <picture>
 
   <source media="(prefers-color-scheme: dark)" srcset="assets/logos/NYU_Long_RGB_White.svg">
   <img src="assets/logos/NYU_Long_RGB_Color.svg" alt="New York University" height="30">
@@ -13,7 +13,7 @@ I'm August ([they/them](https://pronouns.org/they-them)), a passionate student d
   <img src="https://readme-typing-svg.demolab.com?font=Inter&size=16&duration=2000&pause=1000&color=FFFFFF&vCenter=true&width=100&height=25&lines=innovative;empowering;inclusive" alt="innovative, empowering, inclusive" />
 </picture> -->
 
-[Visit portfolio.kapui.net](https://portfolio.kapui.net/?r=wj) • [Connect on LinkedIn](https://www.linkedin.com/in/kapui)
+[Visit portfolio.kapui.net](https://portfolio.kapui.net/?r=wj) • ~~[Connect on LinkedIn](https://www.linkedin.com/in/kapui)~~ (currently unavailable)
 
 ---
 
